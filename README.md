@@ -25,7 +25,7 @@ It is intended as a tool to enhance soldering skills, as well to create a usable
 Happy Hacking! :)
 
 ## Dependencies
-+ [KiCad EDA](http://kicad-pcb.org/)
++ [KiCad EDA](http://kicad.org/)
 
 Rendered Gerber files are present in the `Gerber` directory
 
